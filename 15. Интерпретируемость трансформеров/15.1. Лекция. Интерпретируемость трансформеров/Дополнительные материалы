@@ -1,0 +1,10 @@
+Дополнительные материалы
+Первая статья про polysemantity, очень крутая, много интересных интуиций, но на игрушечных примерах: https://transformer-circuits.pub/2022/toy_model/index.html
+
+Большая статья, где вытащили первые SAE фичи из claude: https://transformer-circuits.pub/2024/scaling-monosemanticity/index.html
+
+Описание математики аттеншена + игрушечные примеры: https://transformer-circuits.pub/2021/framework/index.html
+
+Пост с induction heads и картинками: https://www.lesswrong.com/posts/TvrfY4c9eaGLeyDkE/induction-heads-illustrated
+
+Статья с исследованием того как ллм складывает числа по модулю: https://arxiv.org/abs/2502.00873
